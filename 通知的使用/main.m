@@ -9,6 +9,9 @@
 #import <Foundation/Foundation.h>
 #import "Company.h"
 #import "Person.h"
+
+//No project file can't run
+
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         Company *tencent = [[Company alloc]init];
